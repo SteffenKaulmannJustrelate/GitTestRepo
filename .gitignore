@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/cso_srv/PiSA_Remote_Debug.launch
+/.metadata/
+/cso_srv/PiSA_libs/
+/.idea
